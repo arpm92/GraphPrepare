@@ -1,8 +1,8 @@
 import pandas as pd
-import time
+#import time
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import pairwise_distances
-import scipy.sparse
+#import scipy.sparse
 import numpy as np
 
 
